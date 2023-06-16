@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishti91&label=Profile%20views&color=0e75b6&style=flat" alt="shrishti91" /> </p>
 
-- 💬 Ask me about **SQL ,Power BI**
+- 💬 Ask me about **SQL ,Power BI , Python**
 
 - 📫 How to reach me **ishrishtisrivastava@gmail.com**
 
