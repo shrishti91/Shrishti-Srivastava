@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst Enthusiast From India</h3>
 <img align="right" alt="coding widht = "5500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishti91&label=Profile%20views&color=0e75b6&style=flat" alt="shrishti91" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shrishti91&label=Profile%20views&color=0e75b6&style=flat" alt="shrishti91" /> </p>
 
 - 💬 Ask me about **SQL ,Power BI**
 
