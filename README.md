@@ -1,13 +1,12 @@
 <h1 align="center">Hello 👋, I'm Shrishti Srivastava</h1>
-<h3 align="center">Data Analyst Enthusiast From India</h3>
-<img align="right" alt="coding widht = "300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<h3 align="center">Data Analyst Emnthusiast From India</h3>
+<img align="right" alt="coding widht = "200" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishti91&label=Profile%20views&color=0e75b6&style=flat" alt="shrishti91" /> </p>
 
-- 💬 Ask me about **SQL ,Power BI , Python**
+- 💬 Ask me about **SQL ,Power BI**
 
-- 📫 How to reach me                                                                                                                                         
-**ishrishtisrivastava@gmail.com**
+- 📫 How to reach me **ishrishtisrivastava@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
